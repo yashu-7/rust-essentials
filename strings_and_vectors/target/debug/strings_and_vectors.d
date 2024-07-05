@@ -1,0 +1,1 @@
+C:\Users\yaswa\learn\rust_files\learing-rust\rust-essentials\strings_and_vectors\target\debug\strings_and_vectors.exe: C:\Users\yaswa\learn\rust_files\learing-rust\rust-essentials\strings_and_vectors\src\main.rs
