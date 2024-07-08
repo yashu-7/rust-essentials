@@ -1,0 +1,1 @@
+C:\Users\yaswa\learn\rust_files\learing-rust\rust-essentials\enums_and_variants\target\debug\enums_and_variants.exe: C:\Users\yaswa\learn\rust_files\learing-rust\rust-essentials\enums_and_variants\src\main.rs
