@@ -1,5 +1,7 @@
 use std::io::{BufRead, BufReader};
 
+pub mod colors;
+
 pub fn read_stdin() -> String{
     let stdin = std::io::stdin();
     let mut reader = BufReader::new(stdin.lock());
